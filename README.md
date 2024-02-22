@@ -36,4 +36,4 @@ Run the Streamlit app using the command: streamlit run app.py.
 
 Enter the values for each column to get the Selling_Price predicted value or Status (Won/Lost).
 
-Linkedin Post LInk:
+Linkedin Post LInk:https://www.linkedin.com/posts/kaushik-kathwal-372769290_python-pandas-streamlit-activity-7166475692702986240-2__U?utm_source=share&utm_medium=member_desktop
